@@ -11,7 +11,7 @@
 [submodule "OCA/web"]
 	path = OCA/web
 	url = git@github.com:OCA/web.git
-	branch = 6.1
+	branch = 14.0
 
 [submodule "CybroOdoo/CybroAddons"]
 	path = CybroOdoo/CybroAddons
